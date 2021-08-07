@@ -7,19 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		301317DF26BE8A4E00A6A0A8 /* LearningSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317DE26BE8A4E00A6A0A8 /* LearningSwiftUIApp.swift */; };
-		301317E126BE8A4E00A6A0A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317E026BE8A4E00A6A0A8 /* ContentView.swift */; };
+		301317DF26BE8A4E00A6A0A8 /* Application.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317DE26BE8A4E00A6A0A8 /* Application.swift */; };
 		301317E326BE8A5000A6A0A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 301317E226BE8A5000A6A0A8 /* Assets.xcassets */; };
 		301317E626BE8A5000A6A0A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 301317E526BE8A5000A6A0A8 /* Preview Assets.xcassets */; };
+		301317F026BE8BD300A6A0A8 /* Lesson01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317EF26BE8BD300A6A0A8 /* Lesson01.swift */; };
+		301317F226BE8D0000A6A0A8 /* Lesson02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317F126BE8D0000A6A0A8 /* Lesson02.swift */; };
+		301317F426BE983100A6A0A8 /* Lesson03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317F326BE983100A6A0A8 /* Lesson03.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		301317DB26BE8A4E00A6A0A8 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		301317DE26BE8A4E00A6A0A8 /* LearningSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningSwiftUIApp.swift; sourceTree = "<group>"; };
-		301317E026BE8A4E00A6A0A8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		301317DE26BE8A4E00A6A0A8 /* Application.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Application.swift; sourceTree = "<group>"; };
 		301317E226BE8A5000A6A0A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		301317E526BE8A5000A6A0A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		301317E726BE8A5000A6A0A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		301317EF26BE8BD300A6A0A8 /* Lesson01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson01.swift; sourceTree = "<group>"; };
+		301317F126BE8D0000A6A0A8 /* Lesson02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson02.swift; sourceTree = "<group>"; };
+		301317F326BE983100A6A0A8 /* Lesson03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson03.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,11 +56,13 @@
 		301317DD26BE8A4E00A6A0A8 /* LearningSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				301317DE26BE8A4E00A6A0A8 /* LearningSwiftUIApp.swift */,
-				301317E026BE8A4E00A6A0A8 /* ContentView.swift */,
+				301317DE26BE8A4E00A6A0A8 /* Application.swift */,
 				301317E226BE8A5000A6A0A8 /* Assets.xcassets */,
 				301317E726BE8A5000A6A0A8 /* Info.plist */,
 				301317E426BE8A5000A6A0A8 /* Preview Content */,
+				301317EF26BE8BD300A6A0A8 /* Lesson01.swift */,
+				301317F126BE8D0000A6A0A8 /* Lesson02.swift */,
+				301317F326BE983100A6A0A8 /* Lesson03.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -138,8 +144,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				301317E126BE8A4E00A6A0A8 /* ContentView.swift in Sources */,
-				301317DF26BE8A4E00A6A0A8 /* LearningSwiftUIApp.swift in Sources */,
+				301317F426BE983100A6A0A8 /* Lesson03.swift in Sources */,
+				301317F026BE8BD300A6A0A8 /* Lesson01.swift in Sources */,
+				301317F226BE8D0000A6A0A8 /* Lesson02.swift in Sources */,
+				301317DF26BE8A4E00A6A0A8 /* Application.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
