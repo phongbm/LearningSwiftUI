@@ -13,6 +13,8 @@
 		301317F026BE8BD300A6A0A8 /* Lesson01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317EF26BE8BD300A6A0A8 /* Lesson01.swift */; };
 		301317F226BE8D0000A6A0A8 /* Lesson02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317F126BE8D0000A6A0A8 /* Lesson02.swift */; };
 		301317F426BE983100A6A0A8 /* Lesson03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317F326BE983100A6A0A8 /* Lesson03.swift */; };
+		301317F626BF766700A6A0A8 /* Lesson04.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317F526BF766700A6A0A8 /* Lesson04.swift */; };
+		301317F826BF7F8F00A6A0A8 /* Lesson05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317F726BF7F8F00A6A0A8 /* Lesson05.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		301317EF26BE8BD300A6A0A8 /* Lesson01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson01.swift; sourceTree = "<group>"; };
 		301317F126BE8D0000A6A0A8 /* Lesson02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson02.swift; sourceTree = "<group>"; };
 		301317F326BE983100A6A0A8 /* Lesson03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson03.swift; sourceTree = "<group>"; };
+		301317F526BF766700A6A0A8 /* Lesson04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson04.swift; sourceTree = "<group>"; };
+		301317F726BF7F8F00A6A0A8 /* Lesson05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson05.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				301317EF26BE8BD300A6A0A8 /* Lesson01.swift */,
 				301317F126BE8D0000A6A0A8 /* Lesson02.swift */,
 				301317F326BE983100A6A0A8 /* Lesson03.swift */,
+				301317F526BF766700A6A0A8 /* Lesson04.swift */,
+				301317F726BF7F8F00A6A0A8 /* Lesson05.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -147,6 +153,8 @@
 				301317F426BE983100A6A0A8 /* Lesson03.swift in Sources */,
 				301317F026BE8BD300A6A0A8 /* Lesson01.swift in Sources */,
 				301317F226BE8D0000A6A0A8 /* Lesson02.swift in Sources */,
+				301317F626BF766700A6A0A8 /* Lesson04.swift in Sources */,
+				301317F826BF7F8F00A6A0A8 /* Lesson05.swift in Sources */,
 				301317DF26BE8A4E00A6A0A8 /* Application.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
