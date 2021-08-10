@@ -19,6 +19,8 @@
 		301317FE26BFCCC000A6A0A8 /* Lesson07.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317FD26BFCCC000A6A0A8 /* Lesson07.swift */; };
 		3013180026BFCE7B00A6A0A8 /* Lesson08.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301317FF26BFCE7B00A6A0A8 /* Lesson08.swift */; };
 		3013180226BFD23100A6A0A8 /* Lesson09.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3013180126BFD23100A6A0A8 /* Lesson09.swift */; };
+		3013180426C2BB0300A6A0A8 /* Lesson10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3013180326C2BB0300A6A0A8 /* Lesson10.swift */; };
+		3013180626C2BD9800A6A0A8 /* Lesson11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3013180526C2BD9800A6A0A8 /* Lesson11.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +38,8 @@
 		301317FD26BFCCC000A6A0A8 /* Lesson07.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson07.swift; sourceTree = "<group>"; };
 		301317FF26BFCE7B00A6A0A8 /* Lesson08.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson08.swift; sourceTree = "<group>"; };
 		3013180126BFD23100A6A0A8 /* Lesson09.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson09.swift; sourceTree = "<group>"; };
+		3013180326C2BB0300A6A0A8 /* Lesson10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson10.swift; sourceTree = "<group>"; };
+		3013180526C2BD9800A6A0A8 /* Lesson11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lesson11.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 				301317FD26BFCCC000A6A0A8 /* Lesson07.swift */,
 				301317FF26BFCE7B00A6A0A8 /* Lesson08.swift */,
 				3013180126BFD23100A6A0A8 /* Lesson09.swift */,
+				3013180326C2BB0300A6A0A8 /* Lesson10.swift */,
+				3013180526C2BD9800A6A0A8 /* Lesson11.swift */,
 			);
 			path = LearningSwiftUI;
 			sourceTree = "<group>";
@@ -165,9 +171,11 @@
 				301317FA26BFCA5800A6A0A8 /* Lesson06.swift in Sources */,
 				301317F426BE983100A6A0A8 /* Lesson03.swift in Sources */,
 				301317F026BE8BD300A6A0A8 /* Lesson01.swift in Sources */,
+				3013180626C2BD9800A6A0A8 /* Lesson11.swift in Sources */,
 				301317F226BE8D0000A6A0A8 /* Lesson02.swift in Sources */,
 				301317FE26BFCCC000A6A0A8 /* Lesson07.swift in Sources */,
 				301317F626BF766700A6A0A8 /* Lesson04.swift in Sources */,
+				3013180426C2BB0300A6A0A8 /* Lesson10.swift in Sources */,
 				301317F826BF7F8F00A6A0A8 /* Lesson05.swift in Sources */,
 				3013180026BFCE7B00A6A0A8 /* Lesson08.swift in Sources */,
 				3013180226BFD23100A6A0A8 /* Lesson09.swift in Sources */,
